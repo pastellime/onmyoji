@@ -1,0 +1,11 @@
+h1 {
+    padding-top: 20pt;
+}
+body {
+    font-family: papyrus;
+    background:#301953;
+    color: white;
+    text-align: center;
+    margin:0 auto;
+    max-width:70em;
+}

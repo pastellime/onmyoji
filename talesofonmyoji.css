@@ -1,0 +1,13 @@
+h1 {
+    padding-top: 20pt;
+}
+body {
+    background-image: url("images/SPOnikiri.png");
+    font-family: papyrus;
+    background:#401f4f;
+    color: white;
+    text-align: center;
+    margin:0 auto;
+    max-width:70em;}
+
+ h2 {color:white;}
